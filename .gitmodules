@@ -1,3 +1,3 @@
 [submodule "git-rce-hook"]
-        path = GIT/git-rce-hook
+        path = git-rce-hook
         url = https://github.com/mydpkg/git-rce-hook.git
