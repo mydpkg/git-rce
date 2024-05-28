@@ -1,3 +1,0 @@
-[submodule "aa/git-rce-hook"]
-	path = AIT/modules/git-rce-hook
-	url = https://github.com/mydpkg/git-rce-hook.git
