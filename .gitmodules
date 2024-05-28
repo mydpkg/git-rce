@@ -1,0 +1,3 @@
+[submodule "CESHI/modules/git-rce-hook"]
+	path = CESHI/modules/git-rce-hook
+	url = https://github.com/mydpkg/git-rce-hook.git
